@@ -10,6 +10,9 @@ The platform bridges the gap between complex financial news and everyday underst
 
 ---
 
+<img width="523" height="596" alt="image" src="https://github.com/user-attachments/assets/50c5877b-e1da-46a2-bee9-b991ef80ef71" />
+
+---
 ## The Problem with Modern Financial Media
 
 Navigating the stock market today presents critical challenges for individual investors trying to make informed decisions:
