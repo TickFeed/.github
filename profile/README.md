@@ -10,7 +10,8 @@ The platform bridges the gap between complex financial news and everyday underst
 
 ---
 
-<img width="523" height="596" alt="image" src="https://github.com/user-attachments/assets/50c5877b-e1da-46a2-bee9-b991ef80ef71" />
+<img width="1052" height="1210" alt="Screenshot 2026-05-14 193244 (2)" src="https://github.com/user-attachments/assets/d51e617d-2bce-40d4-9496-a9ffad1c5008" />
+
 
 ---
 ## The Problem with Modern Financial Media
