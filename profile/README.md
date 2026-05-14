@@ -1,4 +1,4 @@
-# TickFeed
+# TickFeed AI
 
 ### Market News. Smart Insights. In Your Feed.
 
