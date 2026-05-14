@@ -1,4 +1,4 @@
-# TickFeed AI
+# TickFeed
 
 ### Market News. Smart Insights. In Your Feed.
 
@@ -20,34 +20,28 @@ Navigating the stock market today presents critical challenges for individual in
 
 ---
 
-## What TickFeed Delivers
+## How It Works
 
-TickFeed solves these challenges by combining data curation with intelligent analysis to give you an elegant, all-in-one market companion:
+TickFeed solves these challenges by combining curated data with intelligent analysis to give you an elegant, all-in-one market companion:
 
-### Personalized Delivery
-* **Dual-Engine Feed:** View broad macro-market movements on one tab, and a hyper-targeted, customized news stream built entirely around your personal watchlists and portfolio on the other.
-* **Contextual Communities:** Discuss news as it happens. Every article features an embedded, dedicated conversation space, keeping retail investor discourse anchored to verified, factual data.
-
-### Intelligent Analysis
-* **Automated Executive Summaries:** Get straight to the point. Complex financial reports are broken down into concise, structured bullet points, allowing you to digest key market facts in under a minute.
-* **"Why It Matters" Impact Assessment:** Every piece of news undergoes an automated impact analysis, instantly translating corporate updates into direct implications for your investments.
-* **Smart Interaction:** Benefit from an embedded intelligence layer within community threads that surfaces historical data and fundamental market metrics to elevate the conversation.
+1. **Customize Your Feed:** Select your favorite stocks to build a hyper-targeted personal watchlist. View broad market movements on one tab, and a customized news stream built entirely around your portfolio on the other.
+2. **Read the Essentials:** Open your feed to see automated executive summaries. Complex financial reports are broken down into concise, structured bullet points, allowing you to digest key market facts in under a minute.
+3. **Understand the Impact:** Benefit from immediate "Why It Matters" assessments. Every piece of news undergoes an automated analysis, instantly translating corporate updates into direct implications for your investments.
+4. **Join the Conversation:** Discuss news as it happens. Every article features an embedded, dedicated conversation space, keeping retail investor discourse anchored to verified, factual data and fundamental market metrics.
 
 ---
 
-## Core Ecosystem
+## What Sets Us Apart
 
-| Module | Purpose | Availability |
-| :--- | :--- | :--- |
-| **TickFeed Mobile & Web** | The primary cross-platform application interface optimized for real-time data delivery and investor discussions. | Open Beta |
-| **Core Ingestion Engine** | The underlying high-throughput network syncing real-time data from premier global financial APIs. | Live |
-| **TickFeed Intelligence** | The specialized natural language processing layer that handles personalized content delivery and summaries. | Active |
+* **Clarity Over Clutter:** No endless scrolling through repetitive articles. Get the facts you need instantly through high-impact summaries.
+* **Objective, Data-Driven Insights:** Our advanced intelligence objectively breaks down corporate events so you know exactly how market shifts impact your holdings.
+* **Community with Context:** Say goodbye to chaotic forums. Engage in focused, high-quality discussions directly attached to the news node that matters.
 
 ---
 
 ## Community & Feedback
 
-We actively build in public and prioritize investor feedback to shape the future of TickFeed. To suggest features, report user interface bugs, or collaborate on community management, please connect with us.
+We actively build in public and prioritize investor feedback to shape the future of TickFeed. To suggest features, report user interface issues, or join our community moderation team, please connect with us through our official channels.
 
 For general inquiries or account assistance, please contact our support team at `support@tickfeed.com`.
 
