@@ -1,104 +1,56 @@
-# 📊 TickFeed
+# TickFeed
 
-> Personalized Finance Intelligence Platform for Modern Investors
+### Market News. Smart Insights. In Your Feed.
 
----
+TickFeed is an advanced market intelligence platform designed specifically for modern investors. By filtering out the noise of high-frequency financial journalism, TickFeed transforms raw market updates into clear, actionable, and hyper-personalized insights. 
 
-## 🚀 What is TickFeed?
+The platform bridges the gap between complex financial news and everyday understanding, offering automated executive summaries, immediate impact assessments, and dedicated discussion spaces for every major market event.
 
-TickFeed helps retail investors cut through market noise by delivering:
-
-- 📈 Personalized stock-specific news feeds  
-- 🤖 AI-powered summaries & explanations  
-- 🧠 “Why it matters” insights for every news event  
-- 💬 Contextual discussions per article  
-- 🔔 Daily 2-minute finance digest  
+[Visit Website](https://tickfeed.com) • [Download the App](https://tickfeed.com/download) • [Platform Overview](https://tickfeed.com/about)
 
 ---
 
-## 🎯 Problem We’re Solving
+## The Problem with Modern Financial Media
 
-Retail investors today struggle with:
+Navigating the stock market today presents critical challenges for individual investors trying to make informed decisions:
 
-- Information overload across multiple platforms  
-- Lack of context behind financial news  
-- Fragmented discussions across Reddit, X, and news apps  
-
----
-
-## 💡 Our Solution
-
-TickFeed turns raw financial news into **actionable intelligence**:
-
-> News → Context → Insight → Discussion → Understanding
+* **Information Overload:** Investors are constantly inundated with an overwhelming volume of repetitive news across dozens of different financial websites.
+* **Missing Context:** Traditional financial journalism often reports on numbers and events without explaining the underlying economic implications or how it directly affects a specific stock.
+* **Scattered Conversations:** Community discussions are fragmented across unverified social media channels, making it difficult to find reliable, fact-based market sentiment.
 
 ---
 
-## 🧠 Core Features (MVP)
+## What TickFeed Delivers
 
-- Dual Feed System (All Market / My Stocks)
-- AI Article Summaries
-- Impact Analysis (“Why it matters”)
-- Stock-specific filtering
-- Discussion threads per article
-- AI-assisted replies in conversations
+TickFeed solves these challenges by combining data curation with intelligent analysis to give you an elegant, all-in-one market companion:
 
----
+### Personalized Delivery
+* **Dual-Engine Feed:** View broad macro-market movements on one tab, and a hyper-targeted, customized news stream built entirely around your personal watchlists and portfolio on the other.
+* **Contextual Communities:** Discuss news as it happens. Every article features an embedded, dedicated conversation space, keeping retail investor discourse anchored to verified, factual data.
 
-## ⚙️ Tech Stack
-
-- Frontend: React / React Native  
-- Backend: Node.js + Express  
-- Database: MongoDB  
-- Cache: Redis  
-- AI Layer: LLM-based summarization + reasoning  
-- Data Sources: RSS feeds + Finance APIs  
+### Intelligent Analysis
+* **Automated Executive Summaries:** Get straight to the point. Complex financial reports are broken down into concise, structured bullet points, allowing you to digest key market facts in under a minute.
+* **"Why It Matters" Impact Assessment:** Every piece of news undergoes an automated impact analysis, instantly translating corporate updates into direct implications for your investments.
+* **Smart Interaction:** Benefit from an embedded intelligence layer within community threads that surfaces historical data and fundamental market metrics to elevate the conversation.
 
 ---
 
-## 📌 Current Status
+## Core Ecosystem
 
-🛠️ Building MVP:
-- News aggregation system
-- Personalized feeds
-- AI summarization engine
-- Discussion system
-
----
-
-## 🗺️ Roadmap
-
-**Phase 1 (MVP)**  
-- News feed + AI summaries  
-- Watchlists  
-- Discussions  
-
-**Phase 2**  
-- Portfolio intelligence  
-- Sentiment analysis  
-- Smart alerts  
-
-**Phase 3**  
-- Social layer for investors  
-- AI financial assistant  
+| Module | Purpose | Availability |
+| :--- | :--- | :--- |
+| **TickFeed Mobile & Web** | The primary cross-platform application interface optimized for real-time data delivery and investor discussions. | Open Beta |
+| **Core Ingestion Engine** | The underlying high-throughput network syncing real-time data from premier global financial APIs. | Live |
+| **TickFeed Intelligence** | The specialized natural language processing layer that handles personalized content delivery and summaries. | Active |
 
 ---
 
-## 🎯 Vision
+## Community & Feedback
 
-> “Make financial information understandable, personalized, and actionable for every retail investor.”
+We actively build in public and prioritize investor feedback to shape the future of TickFeed. To suggest features, report user interface bugs, or collaborate on community management, please connect with us.
 
----
-
-## 🤝 Built By
-
-A small team building in public 🚀  
-Open to feedback, contributors, and collaboration.
+For general inquiries or account assistance, please contact our support team at `support@tickfeed.com`.
 
 ---
 
-## 🔗 Links
-
-- 📁 PRD: tickfeed-prd
-- 💻 Backend: tickfeed-api
-- 🎨 Frontend: tickfeed-app
+© 2026 TickFeed. All rights reserved. Built for modern investors.
